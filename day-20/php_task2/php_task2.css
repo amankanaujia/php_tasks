@@ -1,0 +1,11 @@
+table,th, td, tr {
+    margin: 10px auto;
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+td,th {
+    padding: 10px;
+}
+h1 {
+    text-align:center;
+}
